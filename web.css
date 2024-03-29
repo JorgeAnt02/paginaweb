@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&display=swap');
+
+h1 {
+  font-family: 'Calligraffitti', sans-serif; /* Cambia 'Arial' por el nombre de la fuente que quieras usar */
+}
+h4 {
+  font-family: 'Calligraffitti', sans-serif; /* Cambia 'Arial' por el nombre de la fuente que quieras usar */
+}
+h2 {
+  font-family: 'Calligraffitti', sans-serif; /* Cambia 'Arial' por el nombre de la fuente que quieras usar */
+}
+p {
+  font-family: 'Calligraffitti', sans-serif; /* Cambia 'Arial' por el nombre de la fuente que quieras usar */
+}
+.img{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    background-position: center center;
+    padding: 50px 0;
+    margin-left: 100px;
+    text-align: center;
+}
+.texto{
+  transform: translateX(100px);
+  margin-left: 100px;
+}
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color: #dbddf1;
+}
+.gallery{
+	padding: 80px 0px;
+}
+img{
+	max-width: 100%;
+}
+.gallery img{
+	background: #fff;
+	padding: 15px;
+	width: 100%;
+	box-shadow: 0px 0px 15px rgba(0,0,0,0.3);
+	cursor: pointer;
+}
+#gallery-popup .modal-img{
+	width: 100%;
+}
+*{
+  padding: 0;
+  margin: 0;
+  
+}
+html, body, section {
+  height: 100%;
+  min-height: 100%;
+}
+body{
+  background-color: rgb(26, 24, 24);
+}
+
+
+  
